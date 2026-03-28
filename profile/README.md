@@ -10,5 +10,12 @@ Welcome to the home of EmbedLab-Tech. We focus on bridging the gap between low-l
 - **Smart Analytics:** Automatic detection of firmware power states.
 - **Integrations:** Native Python SDK and CI/CD support.
 
+### 📦 Ecosystem & SDKs
+
+Get started with our official libraries:
+
+Python: pip install embedlab-tech
+JavaScript/WebUSB: npm install @embedlab-tech/insight-profiler
+
 ---
 🌐 [embedlab.tech](https://embedlab.tech) | 📧 [kamilkrezolek@embedlab.tech](mailto:kamilkrezolek@embedlab.tech) | 💼 [LinkedIn](https://www.linkedin.com/company/embedlab-tech)
